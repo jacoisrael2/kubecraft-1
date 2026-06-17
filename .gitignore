@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
 *.pyc
+aci-automation/
+homelab-proxmox/
+kubecraft-1/
